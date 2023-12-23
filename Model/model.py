@@ -1,4 +1,4 @@
-# model.py
+# model
 import pandas as pd
 
 

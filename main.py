@@ -1,4 +1,4 @@
-# main.py
+# main
 import tkinter as tk
 from Controller.controller import CSVController
 

@@ -1,4 +1,4 @@
-# controller.py
+# controller
 from tkinter import filedialog
 import tkinter as tk
 from View.view import CSVViewerApp
